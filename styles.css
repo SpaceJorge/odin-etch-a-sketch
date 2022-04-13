@@ -1,0 +1,10 @@
+body{
+    box-sizing: border-box;
+}
+.container{
+    display:grid;
+    border: 5px;
+    border-color: rgb(217, 255, 5);
+    gap:5px;
+    padding: 10px;
+}
